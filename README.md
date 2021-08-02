@@ -1,9 +1,12 @@
 # RestoringGame
 
-COMP313\n
-Matt Rowling\n
-Assignment 1\n
-Button Presser Game\n
+COMP313
+
+Matt Rowling
+
+Assignment 1
+
+Button Presser Game
 
 Video:
 https://youtu.be/2KdZ9xVA-ts
