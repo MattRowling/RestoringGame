@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RestoringGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\RestoringGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\ProjectVersionBlueprint.cpp.obj"
+"C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\RestoringGame.cpp.obj"
+"C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\ProjectVersionBlueprint.gen.cpp.obj"
+"C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\RestoringGame.init.gen.cpp.obj"
+"C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\Default.rc2.res"
+/OUT:"C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\UE4Editor-RestoringGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_RestoringGame

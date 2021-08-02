@@ -1,0 +1,16 @@
+﻿  Parsing headers for RestoringGameEditor
+    Running UnrealHeaderTool "C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\RestoringGame.uproject" "C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\RestoringGameEditor\Development\RestoringGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\matt\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for RestoringGameEditor in 7.7382241 seconds
+  Building RestoringGameEditor...
+  Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] ProjectVersionBlueprint.cpp
+    [2/6] RestoringGame.init.gen.cpp
+    [3/6] ProjectVersionBlueprint.gen.cpp
+    [4/6] UE4Editor-RestoringGame-0004.lib
+       Creating library C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\UE4Editor-RestoringGame-0004.lib and object C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\UE4Editor-RestoringGame-0004.exp
+    [5/6] UE4Editor-RestoringGame-0004.dll
+       Creating library C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\UE4Editor-RestoringGame-0004.suppressed.lib and object C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\UE4Editor-RestoringGame-0004.suppressed.exp
+    [6/6] RestoringGameEditor.target
+  Total time in Parallel executor: 3.63 seconds
+  Total execution time: 12.71 seconds

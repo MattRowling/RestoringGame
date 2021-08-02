@@ -1,0 +1,2 @@
+C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\Definitions.RestoringGame.h
+C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Source\RestoringGame\RestoringGame.h

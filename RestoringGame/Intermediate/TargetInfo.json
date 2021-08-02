@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RestoringGame",
+			"Path": "C:\\Users\\matt\\OneDrive\\Documents\\Unreal Projects\\RestoringGame\\Source\\RestoringGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RestoringGameEditor",
+			"Path": "C:\\Users\\matt\\OneDrive\\Documents\\Unreal Projects\\RestoringGame\\Source\\RestoringGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

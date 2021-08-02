@@ -1,0 +1,3 @@
+C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Development\RestoringGame\Definitions.RestoringGame.h
+C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Source\RestoringGame\ProjectVersionBlueprint.h
+C:\Users\matt\OneDrive\Documents\Unreal Projects\RestoringGame\Intermediate\Build\Win64\UE4Editor\Inc\RestoringGame\ProjectVersionBlueprint.generated.h
